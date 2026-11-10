@@ -1,0 +1,5 @@
+music_database_analysis/
+data/
+output/
+*.pyc
+__pycache__/
